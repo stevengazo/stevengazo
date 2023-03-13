@@ -24,9 +24,6 @@ I'm informatic engineer student from Costa Rica
 <p align="left"> 
    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> 
-
-  <img src="https://img.icons8.com/nolan/256/web.png" alt="azure" width="40" height="40"/> </a>MVC- PHP School App <a href="https://github.com/stevengazo/App-School" target="_blank" rel="noreferrer"> 
-
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
    <img src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png" alt="EntityFramework" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> 
 
@@ -64,4 +61,4 @@ Those are my personal and student projects, than i builded
 <img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/256/external-desktop-augmented-reality-inipagistudio-lineal-color-inipagistudio.png" width="40" height="40"/> </a>Windows Forms - Medical Resume<a href="https://github.com/stevengazo/ExpedienteMedico" target="_blank" rel="noreferrer"> 
 
   <img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/256/external-desktop-augmented-reality-inipagistudio-lineal-color-inipagistudio.png" width="40" height="40"/> </a>Windows Forms - CR Autos <a href="https://github.com/stevengazo/CRAutos-WindowsForm" target="_blank" rel="noreferrer"> 
-
+<img src="https://img.icons8.com/nolan/256/web.png" alt="azure" width="40" height="40"/> </a>MVC- PHP School App <a href="https://github.com/stevengazo/App-School" target="_blank" rel="noreferrer"> 
