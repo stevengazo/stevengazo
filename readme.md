@@ -59,6 +59,5 @@ Those are my personal and student projects, than i builded
 ## Learning Projects
 
 <img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/256/external-desktop-augmented-reality-inipagistudio-lineal-color-inipagistudio.png" width="40" height="40"/> </a>Windows Forms - Medical Resume<a href="https://github.com/stevengazo/ExpedienteMedico" target="_blank" rel="noreferrer"> 
-
-  <img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/256/external-desktop-augmented-reality-inipagistudio-lineal-color-inipagistudio.png" width="40" height="40"/> </a>Windows Forms - CR Autos <a href="https://github.com/stevengazo/CRAutos-WindowsForm" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/external-inipagistudio-lineal-color-inipagistudio/256/external-desktop-augmented-reality-inipagistudio-lineal-color-inipagistudio.png" width="40" height="40"/> </a>Windows Forms - CR Autos <a href="https://github.com/stevengazo/CRAutos-WindowsForm" target="_blank" rel="noreferrer"> 
 <img src="https://img.icons8.com/nolan/256/web.png" alt="azure" width="40" height="40"/> </a>MVC- PHP School App <a href="https://github.com/stevengazo/App-School" target="_blank" rel="noreferrer"> 
