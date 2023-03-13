@@ -7,7 +7,7 @@ I'm informatic engineer student from Costa Rica
 - Assistant & IT Support on Grupo Mecsa
 
 <h3 align="left">Languages and Tools:</h3>
-
+Those are the lenguajes and tools use it to programming
 <p align="left"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -30,6 +30,7 @@ I'm informatic engineer student from Costa Rica
 </p>
 
 <h3 align="left">Frameworks y Otros</h3>
+Those are some of the frameworkd and others things that i know😅
 <p align="left"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a>
