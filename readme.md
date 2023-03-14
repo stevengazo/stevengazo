@@ -1,7 +1,7 @@
 # Hi Everyone
 ## This is my personal account in GitHub!
 ### My Name is Steven Gazo
-I'm informatic engineer student from Costa Rica 
+I'm informatic engineer student from Costa Rica. I like japanese culture (manga & Anime) and other things like F1 
 
 - Student of Hispanoamericana University
 - Assistant & IT Support on Grupo Mecsa
